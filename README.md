@@ -199,4 +199,10 @@ Part 3 – Result & Verification
 	Input：99999999999999999.2222222+1.0
 	Output：100000000000000000.2222222
  
+Part 4 – Difficulties & Solutions
+	我觉得这个project中没有任何困难的地方
+	以下是我觉得仍可以有所改进的地方：
+	可以再添加‘/’和‘%’这两个operation
+	变量可以输入的值允许是一个表达式
+	允许用户使用注释
 
